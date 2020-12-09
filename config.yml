@@ -51,7 +51,7 @@ steps:
   - title: Récapitulation 
     description: Récapitulation des exercices
     event: push
-    link: '{{ repoUrl }}/
+    link: '{{ repoUrl }}'
     actions:
       - type: respond
         with: .end/01-complete.md
