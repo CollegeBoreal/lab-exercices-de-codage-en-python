@@ -64,5 +64,7 @@ Pour chaque changement de fichiers dans ton référentiel, il faut  `ajouter` et
 
 1. Ajouter dans Git: `git add programme.py`
 2. Signer dans Git: `git commit -m "Enlever le commentaire de la ligne 8"`
-3. Soumettre à Git: `git push`
-4. Revenir au répertoire principal: `cd ..`
+3. Récuperer la correction: `git pull`      
+         :bulb: Pour valider la récupération dans `nano` utiliser la combinaison - `^O WriteOut` + `Enter` + `^X Exit`
+4. Soumettre à Git: `git push`
+5. Revenir au répertoire principal: `cd ..`
