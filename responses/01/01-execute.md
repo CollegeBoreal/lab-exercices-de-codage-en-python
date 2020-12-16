@@ -47,6 +47,8 @@ Dans la fonction `main`, enlève le commentaire se trouvant sur la ligne:`#print
 
 Pour éxécuter le programme Python tape `python programme.py` dans le terminal. Le programme Python doit se trouver dans le même répertoire ou l'on se trouve.
 
+:bulb: Avec `git bash`, rajoutes `winpty` devant `python`
+
 ```
 $ python programme.py
 ```
